@@ -56,27 +56,13 @@ Global telecommunications and data networking infrastructures are undergoing a f
 
 | Architectural Layer | Primary Standard | Core Mechanism | Key Operational Metric or Capability |
 | --- | --- | --- | --- |
-| Wireless Local Area Network | IEEE 802.11be-2024 (Wi-Fi 7) | Multi-Link Operation (MLO) | Ultra-high throughput and bounded low latency
-
- |
-| Storage Area Network | NVMe over Fabrics (NVMe-oF) | RDMA (RoCE), FC-NVMe, NVMe/TCP | Elimination of SCSI translation overhead
-
- |
-| Wide Area Core Transport | IETF RFC 8986 (SRv6) | 128-bit IPv6 SIDs (LOC:FUNCT:ARG) | Stateless source routing without LDP or RSVP-TE
-
- |
-| Disaggregated Cellular RAN | O-RAN Alliance Architecture | A1, O1, and E2 Open Interfaces | 10 ms to 1 s Near-RT RIC closed control loops
-
- |
-| Next-Generation Mobile (6G) | ITU-R M.2160-0 (IMT-2030) | ISAC and Native Distributed AI | 0.1 to 1 ms latency; 1 to 10 cm positioning
-
- |
-| Post-Quantum Security | NIST FIPS 203, 204, and 205 | ML-KEM, ML-DSA, and SLH-DSA | Quantum-resistant key exchange and signatures
-
- |
-| Quantum Information Network | IEEE / IETF Quantum Stacks | Quantum Repeaters and Teleportation | Entanglement swapping and One-Time-Pad QKD
-
- |
+| Wireless Local Area Network | IEEE 802.11be-2024 (Wi-Fi 7) | Multi-Link Operation (MLO) | Ultra-high throughput and bounded low latency |
+| Storage Area Network | NVMe over Fabrics (NVMe-oF) | RDMA (RoCE), FC-NVMe, NVMe/TCP | Elimination of SCSI translation overhead |
+| Wide Area Core Transport | IETF RFC 8986 (SRv6) | 128-bit IPv6 SIDs (LOC:FUNCT:ARG) | Stateless source routing without LDP or RSVP-TE |
+| Disaggregated Cellular RAN | O-RAN Alliance Architecture | A1, O1, and E2 Open Interfaces | 10 ms to 1 s Near-RT RIC closed control loops |
+| Next-Generation Mobile (6G) | ITU-R M.2160-0 (IMT-2030) | ISAC and Native Distributed AI | 0.1 to 1 ms latency; 1 to 10 cm positioning |
+| Post-Quantum Security | NIST FIPS 203, 204, and 205 | ML-KEM, ML-DSA, and SLH-DSA | Quantum-resistant key exchange and signatures |
+| Quantum Information Network | IEEE / IETF Quantum Stacks | Quantum Repeaters and Teleportation | Entanglement swapping and One-Time-Pad QKD |
 
 ---
 
