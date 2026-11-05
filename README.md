@@ -98,6 +98,7 @@ The repository includes a zero-dependency, browser-ready single-page web applica
 ├── README.md                   # Repository documentation and synthesis
 └── LICENSE                     # Creative Commons Attribution 4.0 International (CC BY 4.0)
 ```
+
 ---
 
 ## Architectural Synthesis and Conclusion
