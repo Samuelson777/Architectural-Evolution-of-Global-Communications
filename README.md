@@ -6,9 +6,9 @@
 
 **Standards Alignment:** IETF (RFC 8402, RFC 8754, RFC 8986) | IEEE 802.11be-2024 | ITU-R M.2160-0 (IMT-2030) | O-RAN Alliance | NIST (FIPS 203, FIPS 204, FIPS 205)
 
-[![DOI](https://img.shields.io/badge/DOI%20ResearchGate-10.13140/RG.2.2.35416.66564-blue)](https://doi.org/10.13140/RG.2.2.35416.66564)  
-[![Zenodo](https://img.shields.io/badge/Zenodo-blue)](https://zenodo.org/records/19544116)  
-[![Academia.edu](https://img.shields.io/badge/Academia.edu-blue)](https://www.academia.edu/165640547/Comprehensive_Analysis_of_Atmospheric_Pollution_Integrating_Fundamental_Chemistry_Epidemiological_Metrics_Sociological_Paradigms_and_Policy_Frameworks)  
+[![DOI](https://img.shields.io/badge/DOI%20ResearchGate-10.13140/RG.2.2.15654.08007-blue)](https://doi.org/10.13140/RG.2.2.15654.08007)  
+[![Zenodo](https://img.shields.io/badge/Zenodo-blue)](https://zenodo.org/records/23986153)  
+[![Academia.edu](https://img.shields.io/badge/Academia.edu-blue)](https://www.academia.edu/180290229/Architectural_Evolution_of_Global_Communications_A_Comprehensive_Study_of_Classical_Network_Taxonomies_Programmable_IPv6_Fabrics_IMT_2030_6G_Post_Quantum_Cryptography_and_the_Quantum_Internet)  
 
 ---
 
