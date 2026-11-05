@@ -91,12 +91,13 @@ The repository includes a zero-dependency, browser-ready single-page web applica
 
 ## Repository Structure
 
+```text
 ├── index.html                  # Interactive Research Dashboard & Full Paper SPA
 ├── paper/
 │   └── manuscript.md           # Full Markdown source of the research paper
 ├── README.md                   # Repository documentation and synthesis
 └── LICENSE                     # Creative Commons Attribution 4.0 International (CC BY 4.0)
-
+```
 ---
 
 ## Architectural Synthesis and Conclusion
